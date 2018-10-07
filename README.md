@@ -1,3 +1,11 @@
+Installation instructions-
+1) Clone the repo
+2) Run npm install to get dependencies
+3) Use npm start to run project locally
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
